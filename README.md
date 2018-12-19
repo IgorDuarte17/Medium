@@ -8,3 +8,6 @@
 
 ## Recomendações
 - [Livros Que Todo Desenvolvedor Deveria Ler](https://medium.com/@IgorSantos17/livros-que-todo-desenvolvedor-deveria-ler-1d0fd67d38a2)
+
+## PHP
+- [PHP 7.3 está entre nós!](https://medium.com/@IgorSantos17/php-7-3-est%C3%A1-entre-n%C3%B3s-f12e9d039385) - 19 de Dezembro de 2018
