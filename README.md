@@ -14,3 +14,4 @@
 
 ## PHP
 - [PHP 7.3 está entre nós!](https://medium.com/@IgorSantos17/php-7-3-est%C3%A1-entre-n%C3%B3s-f12e9d039385) - 19 de Dezembro de 2018
+- [Utilizando Operador Ternário no PHP](https://medium.com/@IgorSantos17/utilizando-operador-tern%C3%A1rio-no-php-4d1c7accbaf1) - 15 de Fevereiro de 2019
