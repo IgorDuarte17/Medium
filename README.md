@@ -20,3 +20,7 @@
 
 ## Experiências
 - [Sistemas Legados](https://medium.com/@IgorSantos17/sistemas-legados-3f221365d31a) - 31 de Julho de 2019
+
+## Docker
+- [Descomplicando Docker](https://medium.com/@IgorSantos17/descomplicando-docker-cb296e66f1a8) - 13 de Fevereiro de 2020  
+- [Arquitetura Docker](https://medium.com/@IgorSantos17/arquitetura-docker-c76cb14ffac6) - 27 de Fevereiro de 2020
