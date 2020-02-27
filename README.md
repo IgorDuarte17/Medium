@@ -15,3 +15,8 @@
 ## PHP
 - [PHP 7.3 está entre nós!](https://medium.com/@IgorSantos17/php-7-3-est%C3%A1-entre-n%C3%B3s-f12e9d039385) - 19 de Dezembro de 2018
 - [Utilizando Operador Ternário no PHP](https://medium.com/@IgorSantos17/utilizando-operador-tern%C3%A1rio-no-php-4d1c7accbaf1) - 15 de Fevereiro de 2019
+- [Novidades do PHP 7.4](https://medium.com/@IgorSantos17/novidades-do-php-7-4-27f55f3e37bf) - 13 de Setembro de 2019
+- [Codeception — Code Coverage](https://medium.com/@IgorSantos17/codeception-code-coverage-ead0d3b13b14) - 5 de Dezembro de 2019
+
+## Experiências
+- [Sistemas Legados](https://medium.com/@IgorSantos17/sistemas-legados-3f221365d31a) - 31 de Julho de 2019
