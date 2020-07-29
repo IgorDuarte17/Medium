@@ -26,3 +26,6 @@
 - [Arquitetura Docker](https://medium.com/@IgorSantos17/arquitetura-docker-c76cb14ffac6) - 27 de Fevereiro de 2020
 - [Docker na Prática - Parte I](https://medium.com/@IgorSantos17/docker-na-pr%C3%A1tica-parte-i-83dfd0190143) - 12 de Março de 2020
 - [Docker na Prática - Parte II](https://medium.com/@IgorSantos17/docker-na-pr%C3%A1tica-parte-ii-f7dd3ed4dc5c) - 17 de Abril de 2020
+
+## Ferramentas
+- [Aumentando a Produtividade de seus Projetos com Makefile](https://medium.com/@IgorSantos17/aumentando-a-produtividade-de-seus-projetos-com-makefile-1b412019eff) - 29 de Julho de 2020  
