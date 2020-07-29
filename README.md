@@ -18,9 +18,11 @@
 - [Novidades do PHP 7.4](https://medium.com/@IgorSantos17/novidades-do-php-7-4-27f55f3e37bf) - 13 de Setembro de 2019
 - [Codeception — Code Coverage](https://medium.com/@IgorSantos17/codeception-code-coverage-ead0d3b13b14) - 5 de Dezembro de 2019
 
-## Experiências
+## Engenharia de Software
 - [Sistemas Legados](https://medium.com/@IgorSantos17/sistemas-legados-3f221365d31a) - 31 de Julho de 2019
 
 ## Docker
 - [Descomplicando Docker](https://medium.com/@IgorSantos17/descomplicando-docker-cb296e66f1a8) - 13 de Fevereiro de 2020  
 - [Arquitetura Docker](https://medium.com/@IgorSantos17/arquitetura-docker-c76cb14ffac6) - 27 de Fevereiro de 2020
+- [Docker na Prática - Parte I](https://medium.com/@IgorSantos17/docker-na-pr%C3%A1tica-parte-i-83dfd0190143) - 12 de Março de 2020
+- [Docker na Prática - Parte II](https://medium.com/@IgorSantos17/docker-na-pr%C3%A1tica-parte-ii-f7dd3ed4dc5c) - 17 de Abril de 2020
