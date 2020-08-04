@@ -29,3 +29,5 @@
 
 ## Ferramentas
 - [Aumentando a Produtividade de seus Projetos com Makefile](https://medium.com/@IgorSantos17/aumentando-a-produtividade-de-seus-projetos-com-makefile-1b412019eff) - 29 de Julho de 2020  
+- [Padronizando arquivos em projetos com EditorConfig](https://medium.com/@IgorSantos17/padronizando-arquivos-em-projetos-com-editorconfig-b10d2a543da2) - 04 de Agosto de 2020  
+
